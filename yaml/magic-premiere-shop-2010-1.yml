@@ -1,0 +1,108 @@
+---
+object: card
+id: 29c9a28d-967c-4f9e-ae94-86c88d541dab
+oracle_id: bc71ebf6-2056-41f7-be35-b2e5c34afa99
+multiverse_ids: []
+tcgplayer_id: 58252
+cardmarket_id: 253414
+name: Plains
+printed_name: 平地
+lang: ja
+released_at: '2010-01-01'
+uri: https://api.scryfall.com/cards/29c9a28d-967c-4f9e-ae94-86c88d541dab
+scryfall_uri: https://scryfall.com/card/pmps10/1/ja/%E5%B9%B3%E5%9C%B0?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.jpg?1567096726
+  normal: https://cards.scryfall.io/normal/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.jpg?1567096726
+  large: https://cards.scryfall.io/large/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.jpg?1567096726
+  png: https://cards.scryfall.io/png/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.png?1567096726
+  art_crop: https://cards.scryfall.io/art_crop/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.jpg?1567096726
+  border_crop: https://cards.scryfall.io/border_crop/front/2/9/29c9a28d-967c-4f9e-ae94-86c88d541dab.jpg?1567096726
+mana_cost: ''
+cmc: 0.0
+type_line: Basic Land — Plains
+oracle_text: "({T}: Add {W}.)"
+colors: []
+color_identity:
+- W
+keywords: []
+produced_mana:
+- W
+legalities:
+  standard: legal
+  future: legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: legal
+  historicbrawl: legal
+  alchemy: legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 40a2286d-7884-40e3-8ae2-9869266c65ee
+set: pmps10
+set_name: Magic Premiere Shop 2010
+set_type: promo
+set_uri: https://api.scryfall.com/sets/40a2286d-7884-40e3-8ae2-9869266c65ee
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Apmps10&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/pmps10?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/29c9a28d-967c-4f9e-ae94-86c88d541dab/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Abc71ebf6-2056-41f7-be35-b2e5c34afa99&unique=prints
+collector_number: '1'
+digital: false
+rarity: common
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: John Avon
+artist_ids:
+- 798f3932-30e0-4420-aa3f-db4d613f89ca
+illustration_id: cb8f442a-c728-4f2f-abb2-993e0b176fef
+border_color: black
+frame: '2003'
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- premiereshop
+- instore
+prices:
+  usd: '1.51'
+  usd_foil: '6.90'
+  usd_etched: 
+  eur: '2.75'
+  eur_foil: '3.95'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Plains&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Plains
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/58252?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Plains&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Plains&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

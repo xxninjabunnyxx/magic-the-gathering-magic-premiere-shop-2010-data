@@ -1,0 +1,15 @@
+---
+object: set
+id: 40a2286d-7884-40e3-8ae2-9869266c65ee
+code: pmps10
+name: Magic Premiere Shop 2010
+uri: https://api.scryfall.com/sets/40a2286d-7884-40e3-8ae2-9869266c65ee
+scryfall_uri: https://scryfall.com/sets/pmps10
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Apmps10&unique=prints
+released_at: '2010-01-01'
+set_type: promo
+card_count: 5
+digital: false
+nonfoil_only: false
+foil_only: false
+icon_svg_uri: https://svgs.scryfall.io/sets/pmps.svg?1694404800
